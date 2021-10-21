@@ -5,7 +5,7 @@
   "hconcat": [
     {
       "title": {"text": ["Life expectancy by Country"]},
-      "height": 400,
+      "height": 420,
       "width": 580,
       "data": {
         "url": "https://alxojy.github.io/econs-viz/data/world_map.json",
