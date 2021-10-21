@@ -6,7 +6,7 @@
     {
       "title": {"text": ["GDP per Capita$"]},
       "height": 400,
-      "width": 600,
+      "width": 650,
       "data": {
         "url": "https://alxojy.github.io/econs-viz/data/world_map.json",
         "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
@@ -90,7 +90,7 @@
       "vconcat": [
         {
           "height": 300,
-          "width": 100,
+          "width": 60,
           "title": {"text": ["GDP per year"], "offset": 10},
           "data": {
             "url": "https://raw.githubusercontent.com/raga0003/FIT3179-Assignment-2/main/Dataset/gdp.csv"
