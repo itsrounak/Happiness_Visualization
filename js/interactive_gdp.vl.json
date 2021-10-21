@@ -5,8 +5,8 @@
   "hconcat": [
     {
       "title": {"text": ["GDP per Capita$"]},
-      "height": 500,
-      "width": 550,
+      "height": 450,
+      "width": 650,
       "data": {
         "url": "https://alxojy.github.io/econs-viz/data/world_map.json",
         "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
@@ -89,8 +89,8 @@
     {
       "vconcat": [
         {
-          "height": 300,
-          "width":40,
+          "height": 270,
+          "width":35,
           "title": {"text": ["GDP per year"], "offset": 10},
           "data": {
             "url": "https://raw.githubusercontent.com/raga0003/FIT3179-Assignment-2/main/Dataset/gdp.csv"
