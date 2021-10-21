@@ -89,7 +89,7 @@
     {
       "vconcat": [
         {
-          "height": 300,
+          "height": 200,
           "width": 60,
           "title": {"text": ["GDP per year"], "offset": 10},
           "data": {
