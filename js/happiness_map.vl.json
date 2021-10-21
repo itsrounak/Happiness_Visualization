@@ -5,8 +5,8 @@
   "hconcat": [
     {
       "title": {"text": ["Happiness Score by Country"]},
-      "height": 460,
-      "width": 750,
+      "height": 430,
+      "width": 590,
       "data": {
         "url": "https://alxojy.github.io/econs-viz/data/world_map.json",
         "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
