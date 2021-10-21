@@ -90,7 +90,7 @@
       "vconcat": [
         {
           "height": 300,
-          "width": 300,
+          "width": 180,
           "title": {"text": ["GDP per year"], "offset": 10},
           "data": {
             "url": "https://raw.githubusercontent.com/raga0003/FIT3179-Assignment-2/main/Dataset/gdp.csv"
