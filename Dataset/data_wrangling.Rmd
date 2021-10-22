@@ -1,0 +1,107 @@
+---
+title: "Assignmnet2_fit3179"
+author: "Rounak"
+date: "07/10/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(tidyverse)
+library(dplyr)
+```
+
+```{r}
+data_2015 <- read_csv("/Users/rounakagarwal/Desktop/data/2015.csv")
+data_2016 <- read_csv("/Users/rounakagarwal/Desktop/data/2016.csv")
+data_2017 <- read_csv("/Users/rounakagarwal/Desktop/data/2017.csv")
+data_2018 <- read_csv("/Users/rounakagarwal/Desktop/data/2018.csv")
+data_2019 <- read_csv("/Users/rounakagarwal/Desktop/data/2019.csv")
+```
+
+```{r}
+data_2015 <- data_2015[,c("Country","Happiness Rank","Happiness Score","Economy (GDP per Capita)","Family","Health (Life Expectancy)","Freedom","Trust (Government Corruption)","Generosity")]  %>% rename("GDP per Capita" = "Economy (GDP per Capita)", "Life Expectancy" = "Health (Life Expectancy)", "Government Corruption" = "Trust (Government Corruption)" )  %>% mutate(Year = 2015)
+
+data_2016 <- data_2016[,c("Country","Happiness Rank","Happiness Score","Economy (GDP per Capita)","Family","Health (Life Expectancy)","Freedom","Trust (Government Corruption)","Generosity")]  %>% rename("GDP per Capita" = "Economy (GDP per Capita)", "Life Expectancy" = "Health (Life Expectancy)", "Government Corruption" = "Trust (Government Corruption)" )  %>% mutate(Year = 2016)
+
+data_2017 <- data_2017[,c("Country","Happiness.Rank","Happiness.Score","Economy..GDP.per.Capita.","Family",
+                          "Health..Life.Expectancy.","Freedom","Trust..Government.Corruption.","Generosity")]  %>% 
+  rename("GDP per Capita" = "Economy..GDP.per.Capita.", "Life Expectancy" = "Health..Life.Expectancy.", "Government Corruption" = "Trust..Government.Corruption.","Happiness Rank" = "Happiness.Rank","Happiness Score" = "Happiness.Score" )  %>% mutate(Year = 2017)
+
+
+data_2018 <- data_2018[,c("Country or region","Overall rank","Score","GDP per capita","Social support","Healthy life expectancy","Freedom to make life choices","Perceptions of corruption","Generosity")]  %>%
+  rename("Life Expectancy" = "Healthy life expectancy", "Government Corruption" = "Perceptions of corruption","Family" = "Social support", "Happiness Score" = "Score", "Happiness Rank" = "Overall rank", "Country" = "Country or region", "Freedom" = "Freedom to make life choices", "GDP per Capita" = "GDP per capita" )  %>% mutate(Year = 2018)
+
+data_2019 <- data_2019[,c("Country or region","Overall rank","Score","GDP per capita","Social support","Healthy life expectancy","Freedom to make life choices","Perceptions of corruption","Generosity")]  %>%
+  rename("Life Expectancy" = "Healthy life expectancy", "Government Corruption" = "Perceptions of corruption","Family" = "Social support", "Happiness Score" = "Score", "Happiness Rank" = "Overall rank", "Country" = "Country or region", "Freedom" = "Freedom to make life choices", "GDP per Capita" = "GDP per capita" ) %>% mutate(Year = 2019)
+
+```
+
+
+```{r}
+df <- rbind(data_2015, data_2016, data_2017, data_2018, data_2019)
+```
+
+```{r}
+data <- read_csv("/Users/rounakagarwal/Desktop/data/2015.csv")
+data <- data[,c("Country", "Region")]
+final_data <- left_join(df,data,by = "Country")
+final_data
+```
+
+```{r}
+final_data$Country[final_data$Country == "United States"] <- "United States of America"
+final_data$Country[final_data$Country == "Congo (Kinshasa)"] <- "Dem. Rep. Congo"
+final_data$Country[final_data$Country == "South Sudan"] <- "S. Sudan"
+final_data$Country[final_data$Country == "Ivory Coast"] <- "Côte d'Ivoire"
+final_data$Country[final_data$Country == "Congo (Brazzaville)"] <- "Republic of the Congo"
+
+
+write.csv(final_data, 'happiness2.csv')
+```
+
+```{r}
+data <- read_csv("/Users/rounakagarwal/Desktop/population_final.csv")
+data <- data %>% rename("Country" = "Country Name")
+pop_data <- left_join(final_data,data,by = "Country")
+pop_data <- pop_data[,c("Country","Region","2020","Happiness Rank","Happiness Score","Year")] 
+pop_data <- pop_data %>% rename("Population" = "2020")
+```
+
+
+```{r}
+
+stack_long <- final_data[,c("Country","GDP per Capita","Family","Life Expectancy", "Freedom","Government Corruption", "Generosity","Region")] 
+
+stack_long$`Government Corruption` <- as.numeric(as.character(stack_long$`Government Corruption`))
+
+
+stack_long2 <- stack_long %>% 
+  pivot_longer(cols = 2:7,
+               names_to = "Factor", 
+               values_to = "Value") %>%
+  mutate(type = as.factor(Value))
+```
+
+```{r}
+write.csv(pop_data,'population_data.csv')
+```
+
+```{r}
+countries_codes_and_coordinates
+code <- read_csv("/Users/rounakagarwal/Desktop/countries_codes_and_coordinates.csv")
+code <- code[,c("Country", "Alpha-3 code")]%>% rename("country_code" = "Alpha-3 code")
+
+
+```
+
+```{r}
+final_data <- merge(final_data,code,by = "Country")
+write.csv(final_data,'FINAL.csv')
+```
+
+

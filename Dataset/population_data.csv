@@ -1,0 +1,783 @@
+"","Country","Region","Population","Happiness Rank","Happiness Score","Year"
+"1","Switzerland","Western Europe",8636896,1,7.587,2015
+"2","Iceland","Western Europe",366425,2,7.561,2015
+"3","Denmark","Western Europe",5831404,3,7.527,2015
+"4","Norway","Western Europe",5379475,4,7.522,2015
+"5","Canada","North America",38005238,5,7.427,2015
+"6","Finland","Western Europe",5530719,6,7.406,2015
+"7","Netherlands","Western Europe",17441139,7,7.378,2015
+"8","Sweden","Western Europe",10353442,8,7.364,2015
+"9","New Zealand","Australia and New Zealand",5084300,9,7.286,2015
+"10","Australia","Australia and New Zealand",25687041,10,7.284,2015
+"11","Israel","Middle East and Northern Africa",9216900,11,7.278,2015
+"12","Costa Rica","Latin America and Caribbean",5094114,12,7.226,2015
+"13","Austria","Western Europe",8917205,13,7.2,2015
+"14","Mexico","Latin America and Caribbean",128932753,14,7.187,2015
+"15","United States of America","North America",NA,15,7.119,2015
+"16","Brazil","Latin America and Caribbean",212559409,16,6.983,2015
+"17","Luxembourg","Western Europe",632275,17,6.946,2015
+"18","Ireland","Western Europe",4994724,18,6.94,2015
+"19","Belgium","Western Europe",11555997,19,6.937,2015
+"20","United Arab Emirates","Middle East and Northern Africa",9890400,20,6.901,2015
+"21","United Kingdom","Western Europe",67215293,21,6.867,2015
+"22","Oman","Middle East and Northern Africa",5106622,22,6.853,2015
+"23","Venezuela","Latin America and Caribbean",NA,23,6.81,2015
+"24","Singapore","Southeastern Asia",5685807,24,6.798,2015
+"25","Panama","Latin America and Caribbean",4314768,25,6.786,2015
+"26","Germany","Western Europe",83240525,26,6.75,2015
+"27","Chile","Latin America and Caribbean",19116209,27,6.67,2015
+"28","Qatar","Middle East and Northern Africa",2881060,28,6.611,2015
+"29","France","Western Europe",67391582,29,6.575,2015
+"30","Argentina","Latin America and Caribbean",45376763,30,6.574,2015
+"31","Czech Republic","Central and Eastern Europe",10698896,31,6.505,2015
+"32","Uruguay","Latin America and Caribbean",3473727,32,6.485,2015
+"33","Colombia","Latin America and Caribbean",50882884,33,6.477,2015
+"34","Thailand","Southeastern Asia",69799978,34,6.455,2015
+"35","Saudi Arabia","Middle East and Northern Africa",34813867,35,6.411,2015
+"36","Spain","Western Europe",47351567,36,6.329,2015
+"37","Malta","Western Europe",525285,37,6.302,2015
+"38","Taiwan","Eastern Asia",NA,38,6.298,2015
+"39","Kuwait","Middle East and Northern Africa",4270563,39,6.295,2015
+"40","Suriname","Latin America and Caribbean",586634,40,6.269,2015
+"41","Trinidad and Tobago","Latin America and Caribbean",1399491,41,6.168,2015
+"42","El Salvador","Latin America and Caribbean",6486201,42,6.13,2015
+"43","Guatemala","Latin America and Caribbean",16858333,43,6.123,2015
+"44","Uzbekistan","Central and Eastern Europe",34232050,44,6.003,2015
+"45","Slovakia","Central and Eastern Europe",NA,45,5.995,2015
+"46","Japan","Eastern Asia",125836021,46,5.987,2015
+"47","South Korea","Eastern Asia",NA,47,5.984,2015
+"48","Ecuador","Latin America and Caribbean",17643060,48,5.975,2015
+"49","Bahrain","Middle East and Northern Africa",1701583,49,5.96,2015
+"50","Italy","Western Europe",59554023,50,5.948,2015
+"51","Bolivia","Latin America and Caribbean",11673029,51,5.89,2015
+"52","Moldova","Central and Eastern Europe",2617820,52,5.889,2015
+"53","Paraguay","Latin America and Caribbean",7132530,53,5.878,2015
+"54","Kazakhstan","Central and Eastern Europe",18754440,54,5.855,2015
+"55","Slovenia","Central and Eastern Europe",2100126,55,5.848,2015
+"56","Lithuania","Central and Eastern Europe",2794700,56,5.833,2015
+"57","Nicaragua","Latin America and Caribbean",6624554,57,5.828,2015
+"58","Peru","Latin America and Caribbean",32971846,58,5.824,2015
+"59","Belarus","Central and Eastern Europe",9398861,59,5.813,2015
+"60","Poland","Central and Eastern Europe",37950802,60,5.791,2015
+"61","Malaysia","Southeastern Asia",32365998,61,5.77,2015
+"62","Croatia","Central and Eastern Europe",4047200,62,5.759,2015
+"63","Libya","Middle East and Northern Africa",6871287,63,5.754,2015
+"64","Russia","Central and Eastern Europe",NA,64,5.716,2015
+"65","Jamaica","Latin America and Caribbean",2961161,65,5.709,2015
+"66","North Cyprus","Western Europe",NA,66,5.695,2015
+"67","Cyprus","Western Europe",1207361,67,5.689,2015
+"68","Algeria","Middle East and Northern Africa",43851043,68,5.605,2015
+"69","Kosovo","Central and Eastern Europe",1775378,69,5.589,2015
+"70","Turkmenistan","Central and Eastern Europe",6031187,70,5.548,2015
+"71","Mauritius","Sub-Saharan Africa",1265740,71,5.477,2015
+"72","Hong Kong","Eastern Asia",NA,72,5.474,2015
+"73","Estonia","Central and Eastern Europe",1331057,73,5.429,2015
+"74","Indonesia","Southeastern Asia",273523621,74,5.399,2015
+"75","Vietnam","Southeastern Asia",97338583,75,5.36,2015
+"76","Turkey","Middle East and Northern Africa",84339067,76,5.332,2015
+"77","Kyrgyzstan","Central and Eastern Europe",NA,77,5.286,2015
+"78","Nigeria","Sub-Saharan Africa",206139587,78,5.268,2015
+"79","Bhutan","Southern Asia",771612,79,5.253,2015
+"80","Azerbaijan","Central and Eastern Europe",10110116,80,5.212,2015
+"81","Pakistan","Southern Asia",220892331,81,5.194,2015
+"82","Jordan","Middle East and Northern Africa",10203140,82,5.192,2015
+"83","Montenegro","Central and Eastern Europe",621718,82,5.192,2015
+"84","China","Eastern Asia",1402112000,84,5.14,2015
+"85","Zambia","Sub-Saharan Africa",18383956,85,5.129,2015
+"86","Romania","Central and Eastern Europe",19286123,86,5.124,2015
+"87","Serbia","Central and Eastern Europe",6908224,87,5.123,2015
+"88","Portugal","Western Europe",10305564,88,5.102,2015
+"89","Latvia","Central and Eastern Europe",1901548,89,5.098,2015
+"90","Philippines","Southeastern Asia",109581085,90,5.073,2015
+"91","Somaliland region","Sub-Saharan Africa",NA,91,5.057,2015
+"92","Morocco","Middle East and Northern Africa",36910558,92,5.013,2015
+"93","Macedonia","Central and Eastern Europe",NA,93,5.007,2015
+"94","Mozambique","Sub-Saharan Africa",31255435,94,4.971,2015
+"95","Albania","Central and Eastern Europe",2837743,95,4.959,2015
+"96","Bosnia and Herzegovina","Central and Eastern Europe",3280815,96,4.949,2015
+"97","Lesotho","Sub-Saharan Africa",2142252,97,4.898,2015
+"98","Dominican Republic","Latin America and Caribbean",10847904,98,4.885,2015
+"99","Laos","Southeastern Asia",NA,99,4.876,2015
+"100","Mongolia","Eastern Asia",3278292,100,4.874,2015
+"101","Swaziland","Sub-Saharan Africa",NA,101,4.867,2015
+"102","Greece","Western Europe",10715549,102,4.857,2015
+"103","Lebanon","Middle East and Northern Africa",6825442,103,4.839,2015
+"104","Hungary","Central and Eastern Europe",9749763,104,4.8,2015
+"105","Honduras","Latin America and Caribbean",9904608,105,4.788,2015
+"106","Tajikistan","Central and Eastern Europe",9537642,106,4.786,2015
+"107","Tunisia","Middle East and Northern Africa",11818618,107,4.739,2015
+"108","Palestinian Territories","Middle East and Northern Africa",NA,108,4.715,2015
+"109","Bangladesh","Southern Asia",164689383,109,4.694,2015
+"110","Iran","Middle East and Northern Africa",NA,110,4.686,2015
+"111","Ukraine","Central and Eastern Europe",44134693,111,4.681,2015
+"112","Iraq","Middle East and Northern Africa",40222503,112,4.677,2015
+"113","South Africa","Sub-Saharan Africa",59308690,113,4.642,2015
+"114","Ghana","Sub-Saharan Africa",31072945,114,4.633,2015
+"115","Zimbabwe","Sub-Saharan Africa",14862927,115,4.61,2015
+"116","Liberia","Sub-Saharan Africa",5057677,116,4.571,2015
+"117","India","Southern Asia",1380004385,117,4.565,2015
+"118","Sudan","Sub-Saharan Africa",43849269,118,4.55,2015
+"119","Haiti","Latin America and Caribbean",11402533,119,4.518,2015
+"120","Dem. Rep. Congo","Sub-Saharan Africa",NA,120,4.517,2015
+"121","Nepal","Southern Asia",29136808,121,4.514,2015
+"122","Ethiopia","Sub-Saharan Africa",114963583,122,4.512,2015
+"123","Sierra Leone","Sub-Saharan Africa",7976985,123,4.507,2015
+"124","Mauritania","Sub-Saharan Africa",4649660,124,4.436,2015
+"125","Kenya","Sub-Saharan Africa",53771300,125,4.419,2015
+"126","Djibouti","Sub-Saharan Africa",988002,126,4.369,2015
+"127","Armenia","Central and Eastern Europe",2963234,127,4.35,2015
+"128","Botswana","Sub-Saharan Africa",2351625,128,4.332,2015
+"129","Myanmar","Southeastern Asia",54409794,129,4.307,2015
+"130","Georgia","Central and Eastern Europe",3714000,130,4.297,2015
+"131","Malawi","Sub-Saharan Africa",19129955,131,4.292,2015
+"132","Sri Lanka","Southern Asia",21919000,132,4.271,2015
+"133","Cameroon","Sub-Saharan Africa",26545864,133,4.252,2015
+"134","Bulgaria","Central and Eastern Europe",6927288,134,4.218,2015
+"135","Egypt","Middle East and Northern Africa",NA,135,4.194,2015
+"136","Yemen","Middle East and Northern Africa",NA,136,4.077,2015
+"137","Angola","Sub-Saharan Africa",32866268,137,4.033,2015
+"138","Mali","Sub-Saharan Africa",20250834,138,3.995,2015
+"139","Republic of the Congo","Sub-Saharan Africa",NA,139,3.989,2015
+"140","Comoros","Sub-Saharan Africa",869595,140,3.956,2015
+"141","Uganda","Sub-Saharan Africa",45741000,141,3.931,2015
+"142","Senegal","Sub-Saharan Africa",16743930,142,3.904,2015
+"143","Gabon","Sub-Saharan Africa",2225728,143,3.896,2015
+"144","Niger","Sub-Saharan Africa",24206636,144,3.845,2015
+"145","Cambodia","Southeastern Asia",16718971,145,3.819,2015
+"146","Tanzania","Sub-Saharan Africa",59734213,146,3.781,2015
+"147","Madagascar","Sub-Saharan Africa",27691019,147,3.681,2015
+"148","Central African Republic","Sub-Saharan Africa",4829764,148,3.678,2015
+"149","Chad","Sub-Saharan Africa",16425859,149,3.667,2015
+"150","Guinea","Sub-Saharan Africa",13132792,150,3.656,2015
+"151","Côte d'Ivoire","Sub-Saharan Africa",NA,151,3.655,2015
+"152","Burkina Faso","Sub-Saharan Africa",20903278,152,3.587,2015
+"153","Afghanistan","Southern Asia",38928341,153,3.575,2015
+"154","Rwanda","Sub-Saharan Africa",12952209,154,3.465,2015
+"155","Benin","Sub-Saharan Africa",12123198,155,3.34,2015
+"156","Syria","Middle East and Northern Africa",NA,156,3.006,2015
+"157","Burundi","Sub-Saharan Africa",11890781,157,2.905,2015
+"158","Togo","Sub-Saharan Africa",8278737,158,2.839,2015
+"159","Denmark","Western Europe",5831404,1,7.526,2016
+"160","Switzerland","Western Europe",8636896,2,7.509,2016
+"161","Iceland","Western Europe",366425,3,7.501,2016
+"162","Norway","Western Europe",5379475,4,7.498,2016
+"163","Finland","Western Europe",5530719,5,7.413,2016
+"164","Canada","North America",38005238,6,7.404,2016
+"165","Netherlands","Western Europe",17441139,7,7.339,2016
+"166","New Zealand","Australia and New Zealand",5084300,8,7.334,2016
+"167","Australia","Australia and New Zealand",25687041,9,7.313,2016
+"168","Sweden","Western Europe",10353442,10,7.291,2016
+"169","Israel","Middle East and Northern Africa",9216900,11,7.267,2016
+"170","Austria","Western Europe",8917205,12,7.119,2016
+"171","United States of America","North America",NA,13,7.104,2016
+"172","Costa Rica","Latin America and Caribbean",5094114,14,7.087,2016
+"173","Puerto Rico",NA,3194034,15,7.039,2016
+"174","Germany","Western Europe",83240525,16,6.994,2016
+"175","Brazil","Latin America and Caribbean",212559409,17,6.952,2016
+"176","Belgium","Western Europe",11555997,18,6.929,2016
+"177","Ireland","Western Europe",4994724,19,6.907,2016
+"178","Luxembourg","Western Europe",632275,20,6.871,2016
+"179","Mexico","Latin America and Caribbean",128932753,21,6.778,2016
+"180","Singapore","Southeastern Asia",5685807,22,6.739,2016
+"181","United Kingdom","Western Europe",67215293,23,6.725,2016
+"182","Chile","Latin America and Caribbean",19116209,24,6.705,2016
+"183","Panama","Latin America and Caribbean",4314768,25,6.701,2016
+"184","Argentina","Latin America and Caribbean",45376763,26,6.65,2016
+"185","Czech Republic","Central and Eastern Europe",10698896,27,6.596,2016
+"186","United Arab Emirates","Middle East and Northern Africa",9890400,28,6.573,2016
+"187","Uruguay","Latin America and Caribbean",3473727,29,6.545,2016
+"188","Malta","Western Europe",525285,30,6.488,2016
+"189","Colombia","Latin America and Caribbean",50882884,31,6.481,2016
+"190","France","Western Europe",67391582,32,6.478,2016
+"191","Thailand","Southeastern Asia",69799978,33,6.474,2016
+"192","Saudi Arabia","Middle East and Northern Africa",34813867,34,6.379,2016
+"193","Taiwan","Eastern Asia",NA,34,6.379,2016
+"194","Qatar","Middle East and Northern Africa",2881060,36,6.375,2016
+"195","Spain","Western Europe",47351567,37,6.361,2016
+"196","Algeria","Middle East and Northern Africa",43851043,38,6.355,2016
+"197","Guatemala","Latin America and Caribbean",16858333,39,6.324,2016
+"198","Suriname","Latin America and Caribbean",586634,40,6.269,2016
+"199","Kuwait","Middle East and Northern Africa",4270563,41,6.239,2016
+"200","Bahrain","Middle East and Northern Africa",1701583,42,6.218,2016
+"201","Trinidad and Tobago","Latin America and Caribbean",1399491,43,6.168,2016
+"202","Venezuela","Latin America and Caribbean",NA,44,6.084,2016
+"203","Slovakia","Central and Eastern Europe",NA,45,6.078,2016
+"204","El Salvador","Latin America and Caribbean",6486201,46,6.068,2016
+"205","Malaysia","Southeastern Asia",32365998,47,6.005,2016
+"206","Nicaragua","Latin America and Caribbean",6624554,48,5.992,2016
+"207","Uzbekistan","Central and Eastern Europe",34232050,49,5.987,2016
+"208","Italy","Western Europe",59554023,50,5.977,2016
+"209","Ecuador","Latin America and Caribbean",17643060,51,5.976,2016
+"210","Belize",NA,397621,52,5.956,2016
+"211","Japan","Eastern Asia",125836021,53,5.921,2016
+"212","Kazakhstan","Central and Eastern Europe",18754440,54,5.919,2016
+"213","Moldova","Central and Eastern Europe",2617820,55,5.897,2016
+"214","Russia","Central and Eastern Europe",NA,56,5.856,2016
+"215","Poland","Central and Eastern Europe",37950802,57,5.835,2016
+"216","South Korea","Eastern Asia",NA,57,5.835,2016
+"217","Bolivia","Latin America and Caribbean",11673029,59,5.822,2016
+"218","Lithuania","Central and Eastern Europe",2794700,60,5.813,2016
+"219","Belarus","Central and Eastern Europe",9398861,61,5.802,2016
+"220","North Cyprus","Western Europe",NA,62,5.771,2016
+"221","Slovenia","Central and Eastern Europe",2100126,63,5.768,2016
+"222","Peru","Latin America and Caribbean",32971846,64,5.743,2016
+"223","Turkmenistan","Central and Eastern Europe",6031187,65,5.658,2016
+"224","Mauritius","Sub-Saharan Africa",1265740,66,5.648,2016
+"225","Libya","Middle East and Northern Africa",6871287,67,5.615,2016
+"226","Latvia","Central and Eastern Europe",1901548,68,5.56,2016
+"227","Cyprus","Western Europe",1207361,69,5.546,2016
+"228","Paraguay","Latin America and Caribbean",7132530,70,5.538,2016
+"229","Romania","Central and Eastern Europe",19286123,71,5.528,2016
+"230","Estonia","Central and Eastern Europe",1331057,72,5.517,2016
+"231","Jamaica","Latin America and Caribbean",2961161,73,5.51,2016
+"232","Croatia","Central and Eastern Europe",4047200,74,5.488,2016
+"233","Hong Kong","Eastern Asia",NA,75,5.458,2016
+"234","Somalia",NA,15893219,76,5.44,2016
+"235","Kosovo","Central and Eastern Europe",1775378,77,5.401,2016
+"236","Turkey","Middle East and Northern Africa",84339067,78,5.389,2016
+"237","Indonesia","Southeastern Asia",273523621,79,5.314,2016
+"238","Jordan","Middle East and Northern Africa",10203140,80,5.303,2016
+"239","Azerbaijan","Central and Eastern Europe",10110116,81,5.291,2016
+"240","Philippines","Southeastern Asia",109581085,82,5.279,2016
+"241","China","Eastern Asia",1402112000,83,5.245,2016
+"242","Bhutan","Southern Asia",771612,84,5.196,2016
+"243","Kyrgyzstan","Central and Eastern Europe",NA,85,5.185,2016
+"244","Serbia","Central and Eastern Europe",6908224,86,5.177,2016
+"245","Bosnia and Herzegovina","Central and Eastern Europe",3280815,87,5.163,2016
+"246","Montenegro","Central and Eastern Europe",621718,88,5.161,2016
+"247","Dominican Republic","Latin America and Caribbean",10847904,89,5.155,2016
+"248","Morocco","Middle East and Northern Africa",36910558,90,5.151,2016
+"249","Hungary","Central and Eastern Europe",9749763,91,5.145,2016
+"250","Pakistan","Southern Asia",220892331,92,5.132,2016
+"251","Lebanon","Middle East and Northern Africa",6825442,93,5.129,2016
+"252","Portugal","Western Europe",10305564,94,5.123,2016
+"253","Macedonia","Central and Eastern Europe",NA,95,5.121,2016
+"254","Vietnam","Southeastern Asia",97338583,96,5.061,2016
+"255","Somaliland Region",NA,NA,97,5.057,2016
+"256","Tunisia","Middle East and Northern Africa",11818618,98,5.045,2016
+"257","Greece","Western Europe",10715549,99,5.033,2016
+"258","Tajikistan","Central and Eastern Europe",9537642,100,4.996,2016
+"259","Mongolia","Eastern Asia",3278292,101,4.907,2016
+"260","Laos","Southeastern Asia",NA,102,4.876,2016
+"261","Nigeria","Sub-Saharan Africa",206139587,103,4.875,2016
+"262","Honduras","Latin America and Caribbean",9904608,104,4.871,2016
+"263","Iran","Middle East and Northern Africa",NA,105,4.813,2016
+"264","Zambia","Sub-Saharan Africa",18383956,106,4.795,2016
+"265","Nepal","Southern Asia",29136808,107,4.793,2016
+"266","Palestinian Territories","Middle East and Northern Africa",NA,108,4.754,2016
+"267","Albania","Central and Eastern Europe",2837743,109,4.655,2016
+"268","Bangladesh","Southern Asia",164689383,110,4.643,2016
+"269","Sierra Leone","Sub-Saharan Africa",7976985,111,4.635,2016
+"270","Iraq","Middle East and Northern Africa",40222503,112,4.575,2016
+"271","Namibia",NA,2540916,113,4.574,2016
+"272","Cameroon","Sub-Saharan Africa",26545864,114,4.513,2016
+"273","Ethiopia","Sub-Saharan Africa",114963583,115,4.508,2016
+"274","South Africa","Sub-Saharan Africa",59308690,116,4.459,2016
+"275","Sri Lanka","Southern Asia",21919000,117,4.415,2016
+"276","India","Southern Asia",1380004385,118,4.404,2016
+"277","Myanmar","Southeastern Asia",54409794,119,4.395,2016
+"278","Egypt","Middle East and Northern Africa",NA,120,4.362,2016
+"279","Armenia","Central and Eastern Europe",2963234,121,4.36,2016
+"280","Kenya","Sub-Saharan Africa",53771300,122,4.356,2016
+"281","Ukraine","Central and Eastern Europe",44134693,123,4.324,2016
+"282","Ghana","Sub-Saharan Africa",31072945,124,4.276,2016
+"283","Dem. Rep. Congo","Sub-Saharan Africa",NA,125,4.272,2016
+"284","Georgia","Central and Eastern Europe",3714000,126,4.252,2016
+"285","Republic of the Congo","Sub-Saharan Africa",NA,127,4.236,2016
+"286","Senegal","Sub-Saharan Africa",16743930,128,4.219,2016
+"287","Bulgaria","Central and Eastern Europe",6927288,129,4.217,2016
+"288","Mauritania","Sub-Saharan Africa",4649660,130,4.201,2016
+"289","Zimbabwe","Sub-Saharan Africa",14862927,131,4.193,2016
+"290","Malawi","Sub-Saharan Africa",19129955,132,4.156,2016
+"291","Sudan","Sub-Saharan Africa",43849269,133,4.139,2016
+"292","Gabon","Sub-Saharan Africa",2225728,134,4.121,2016
+"293","Mali","Sub-Saharan Africa",20250834,135,4.073,2016
+"294","Haiti","Latin America and Caribbean",11402533,136,4.028,2016
+"295","Botswana","Sub-Saharan Africa",2351625,137,3.974,2016
+"296","Comoros","Sub-Saharan Africa",869595,138,3.956,2016
+"297","Côte d'Ivoire","Sub-Saharan Africa",NA,139,3.916,2016
+"298","Cambodia","Southeastern Asia",16718971,140,3.907,2016
+"299","Angola","Sub-Saharan Africa",32866268,141,3.866,2016
+"300","Niger","Sub-Saharan Africa",24206636,142,3.856,2016
+"301","S. Sudan",NA,NA,143,3.832,2016
+"302","Chad","Sub-Saharan Africa",16425859,144,3.763,2016
+"303","Burkina Faso","Sub-Saharan Africa",20903278,145,3.739,2016
+"304","Uganda","Sub-Saharan Africa",45741000,145,3.739,2016
+"305","Yemen","Middle East and Northern Africa",NA,147,3.724,2016
+"306","Madagascar","Sub-Saharan Africa",27691019,148,3.695,2016
+"307","Tanzania","Sub-Saharan Africa",59734213,149,3.666,2016
+"308","Liberia","Sub-Saharan Africa",5057677,150,3.622,2016
+"309","Guinea","Sub-Saharan Africa",13132792,151,3.607,2016
+"310","Rwanda","Sub-Saharan Africa",12952209,152,3.515,2016
+"311","Benin","Sub-Saharan Africa",12123198,153,3.484,2016
+"312","Afghanistan","Southern Asia",38928341,154,3.36,2016
+"313","Togo","Sub-Saharan Africa",8278737,155,3.303,2016
+"314","Syria","Middle East and Northern Africa",NA,156,3.069,2016
+"315","Burundi","Sub-Saharan Africa",11890781,157,2.905,2016
+"316","Norway","Western Europe",5379475,1,7.53700017929077,2017
+"317","Denmark","Western Europe",5831404,2,7.52199983596802,2017
+"318","Iceland","Western Europe",366425,3,7.50400018692017,2017
+"319","Switzerland","Western Europe",8636896,4,7.49399995803833,2017
+"320","Finland","Western Europe",5530719,5,7.4689998626709,2017
+"321","Netherlands","Western Europe",17441139,6,7.3769998550415,2017
+"322","Canada","North America",38005238,7,7.31599998474121,2017
+"323","New Zealand","Australia and New Zealand",5084300,8,7.31400012969971,2017
+"324","Sweden","Western Europe",10353442,9,7.28399991989136,2017
+"325","Australia","Australia and New Zealand",25687041,10,7.28399991989136,2017
+"326","Israel","Middle East and Northern Africa",9216900,11,7.21299982070923,2017
+"327","Costa Rica","Latin America and Caribbean",5094114,12,7.0789999961853,2017
+"328","Austria","Western Europe",8917205,13,7.00600004196167,2017
+"329","United States of America","North America",NA,14,6.99300003051758,2017
+"330","Ireland","Western Europe",4994724,15,6.97700023651123,2017
+"331","Germany","Western Europe",83240525,16,6.95100021362305,2017
+"332","Belgium","Western Europe",11555997,17,6.89099979400635,2017
+"333","Luxembourg","Western Europe",632275,18,6.86299991607666,2017
+"334","United Kingdom","Western Europe",67215293,19,6.71400022506714,2017
+"335","Chile","Latin America and Caribbean",19116209,20,6.65199995040894,2017
+"336","United Arab Emirates","Middle East and Northern Africa",9890400,21,6.64799976348877,2017
+"337","Brazil","Latin America and Caribbean",212559409,22,6.63500022888184,2017
+"338","Czech Republic","Central and Eastern Europe",10698896,23,6.60900020599365,2017
+"339","Argentina","Latin America and Caribbean",45376763,24,6.59899997711182,2017
+"340","Mexico","Latin America and Caribbean",128932753,25,6.57800006866455,2017
+"341","Singapore","Southeastern Asia",5685807,26,6.57200002670288,2017
+"342","Malta","Western Europe",525285,27,6.52699995040894,2017
+"343","Uruguay","Latin America and Caribbean",3473727,28,6.4539999961853,2017
+"344","Guatemala","Latin America and Caribbean",16858333,29,6.4539999961853,2017
+"345","Panama","Latin America and Caribbean",4314768,30,6.4520001411438,2017
+"346","France","Western Europe",67391582,31,6.44199991226196,2017
+"347","Thailand","Southeastern Asia",69799978,32,6.42399978637695,2017
+"348","Taiwan Province of China",NA,NA,33,6.42199993133545,2017
+"349","Spain","Western Europe",47351567,34,6.40299987792969,2017
+"350","Qatar","Middle East and Northern Africa",2881060,35,6.375,2017
+"351","Colombia","Latin America and Caribbean",50882884,36,6.35699987411499,2017
+"352","Saudi Arabia","Middle East and Northern Africa",34813867,37,6.3439998626709,2017
+"353","Trinidad and Tobago","Latin America and Caribbean",1399491,38,6.16800022125244,2017
+"354","Kuwait","Middle East and Northern Africa",4270563,39,6.10500001907349,2017
+"355","Slovakia","Central and Eastern Europe",NA,40,6.09800004959106,2017
+"356","Bahrain","Middle East and Northern Africa",1701583,41,6.08699989318848,2017
+"357","Malaysia","Southeastern Asia",32365998,42,6.08400011062622,2017
+"358","Nicaragua","Latin America and Caribbean",6624554,43,6.07100009918213,2017
+"359","Ecuador","Latin America and Caribbean",17643060,44,6.00799989700317,2017
+"360","El Salvador","Latin America and Caribbean",6486201,45,6.00299978256226,2017
+"361","Poland","Central and Eastern Europe",37950802,46,5.97300004959106,2017
+"362","Uzbekistan","Central and Eastern Europe",34232050,47,5.97100019454956,2017
+"363","Italy","Western Europe",59554023,48,5.96400022506714,2017
+"364","Russia","Central and Eastern Europe",NA,49,5.96299982070923,2017
+"365","Belize",NA,397621,50,5.95599985122681,2017
+"366","Japan","Eastern Asia",125836021,51,5.92000007629395,2017
+"367","Lithuania","Central and Eastern Europe",2794700,52,5.90199995040894,2017
+"368","Algeria","Middle East and Northern Africa",43851043,53,5.87200021743774,2017
+"369","Latvia","Central and Eastern Europe",1901548,54,5.84999990463257,2017
+"370","South Korea","Eastern Asia",NA,55,5.83799982070923,2017
+"371","Moldova","Central and Eastern Europe",2617820,56,5.83799982070923,2017
+"372","Romania","Central and Eastern Europe",19286123,57,5.82499980926514,2017
+"373","Bolivia","Latin America and Caribbean",11673029,58,5.82299995422363,2017
+"374","Turkmenistan","Central and Eastern Europe",6031187,59,5.82200002670288,2017
+"375","Kazakhstan","Central and Eastern Europe",18754440,60,5.81899976730347,2017
+"376","North Cyprus","Western Europe",NA,61,5.80999994277954,2017
+"377","Slovenia","Central and Eastern Europe",2100126,62,5.75799989700317,2017
+"378","Peru","Latin America and Caribbean",32971846,63,5.71500015258789,2017
+"379","Mauritius","Sub-Saharan Africa",1265740,64,5.62900018692017,2017
+"380","Cyprus","Western Europe",1207361,65,5.62099981307983,2017
+"381","Estonia","Central and Eastern Europe",1331057,66,5.61100006103516,2017
+"382","Belarus","Central and Eastern Europe",9398861,67,5.56899976730347,2017
+"383","Libya","Middle East and Northern Africa",6871287,68,5.52500009536743,2017
+"384","Turkey","Middle East and Northern Africa",84339067,69,5.5,2017
+"385","Paraguay","Latin America and Caribbean",7132530,70,5.49300003051758,2017
+"386","Hong Kong S.A.R., China",NA,NA,71,5.47200012207031,2017
+"387","Philippines","Southeastern Asia",109581085,72,5.42999982833862,2017
+"388","Serbia","Central and Eastern Europe",6908224,73,5.39499998092651,2017
+"389","Jordan","Middle East and Northern Africa",10203140,74,5.33599996566772,2017
+"390","Hungary","Central and Eastern Europe",9749763,75,5.32399988174438,2017
+"391","Jamaica","Latin America and Caribbean",2961161,76,5.31099987030029,2017
+"392","Croatia","Central and Eastern Europe",4047200,77,5.29300022125244,2017
+"393","Kosovo","Central and Eastern Europe",1775378,78,5.27899980545044,2017
+"394","China","Eastern Asia",1402112000,79,5.27299976348877,2017
+"395","Pakistan","Southern Asia",220892331,80,5.26900005340576,2017
+"396","Indonesia","Southeastern Asia",273523621,81,5.26200008392334,2017
+"397","Venezuela","Latin America and Caribbean",NA,82,5.25,2017
+"398","Montenegro","Central and Eastern Europe",621718,83,5.23699998855591,2017
+"399","Morocco","Middle East and Northern Africa",36910558,84,5.2350001335144,2017
+"400","Azerbaijan","Central and Eastern Europe",10110116,85,5.23400020599365,2017
+"401","Dominican Republic","Latin America and Caribbean",10847904,86,5.23000001907349,2017
+"402","Greece","Western Europe",10715549,87,5.22700023651123,2017
+"403","Lebanon","Middle East and Northern Africa",6825442,88,5.22499990463257,2017
+"404","Portugal","Western Europe",10305564,89,5.19500017166138,2017
+"405","Bosnia and Herzegovina","Central and Eastern Europe",3280815,90,5.18200016021729,2017
+"406","Honduras","Latin America and Caribbean",9904608,91,5.18100023269653,2017
+"407","Macedonia","Central and Eastern Europe",NA,92,5.17500019073486,2017
+"408","Somalia",NA,15893219,93,5.15100002288818,2017
+"409","Vietnam","Southeastern Asia",97338583,94,5.07399988174438,2017
+"410","Nigeria","Sub-Saharan Africa",206139587,95,5.07399988174438,2017
+"411","Tajikistan","Central and Eastern Europe",9537642,96,5.04099988937378,2017
+"412","Bhutan","Southern Asia",771612,97,5.01100015640259,2017
+"413","Kyrgyzstan","Central and Eastern Europe",NA,98,5.00400018692017,2017
+"414","Nepal","Southern Asia",29136808,99,4.96199989318848,2017
+"415","Mongolia","Eastern Asia",3278292,100,4.95499992370605,2017
+"416","South Africa","Sub-Saharan Africa",59308690,101,4.8289999961853,2017
+"417","Tunisia","Middle East and Northern Africa",11818618,102,4.80499982833862,2017
+"418","Palestinian Territories","Middle East and Northern Africa",NA,103,4.77500009536743,2017
+"419","Egypt","Middle East and Northern Africa",NA,104,4.7350001335144,2017
+"420","Bulgaria","Central and Eastern Europe",6927288,105,4.71400022506714,2017
+"421","Sierra Leone","Sub-Saharan Africa",7976985,106,4.70900011062622,2017
+"422","Cameroon","Sub-Saharan Africa",26545864,107,4.69500017166138,2017
+"423","Iran","Middle East and Northern Africa",NA,108,4.69199991226196,2017
+"424","Albania","Central and Eastern Europe",2837743,109,4.64400005340576,2017
+"425","Bangladesh","Southern Asia",164689383,110,4.60799980163574,2017
+"426","Namibia",NA,2540916,111,4.57399988174438,2017
+"427","Kenya","Sub-Saharan Africa",53771300,112,4.55299997329712,2017
+"428","Mozambique","Sub-Saharan Africa",31255435,113,4.55000019073486,2017
+"429","Myanmar","Southeastern Asia",54409794,114,4.54500007629395,2017
+"430","Senegal","Sub-Saharan Africa",16743930,115,4.53499984741211,2017
+"431","Zambia","Sub-Saharan Africa",18383956,116,4.51399993896484,2017
+"432","Iraq","Middle East and Northern Africa",40222503,117,4.49700021743774,2017
+"433","Gabon","Sub-Saharan Africa",2225728,118,4.46500015258789,2017
+"434","Ethiopia","Sub-Saharan Africa",114963583,119,4.46000003814697,2017
+"435","Sri Lanka","Southern Asia",21919000,120,4.44000005722046,2017
+"436","Armenia","Central and Eastern Europe",2963234,121,4.37599992752075,2017
+"437","India","Southern Asia",1380004385,122,4.31500005722046,2017
+"438","Mauritania","Sub-Saharan Africa",4649660,123,4.29199981689453,2017
+"439","Republic of the Congo","Sub-Saharan Africa",NA,124,4.29099988937378,2017
+"440","Georgia","Central and Eastern Europe",3714000,125,4.28599977493286,2017
+"441","Dem. Rep. Congo","Sub-Saharan Africa",NA,126,4.28000020980835,2017
+"442","Mali","Sub-Saharan Africa",20250834,127,4.19000005722046,2017
+"443","Côte d'Ivoire","Sub-Saharan Africa",NA,128,4.17999982833862,2017
+"444","Cambodia","Southeastern Asia",16718971,129,4.16800022125244,2017
+"445","Sudan","Sub-Saharan Africa",43849269,130,4.13899993896484,2017
+"446","Ghana","Sub-Saharan Africa",31072945,131,4.11999988555908,2017
+"447","Ukraine","Central and Eastern Europe",44134693,132,4.09600019454956,2017
+"448","Uganda","Sub-Saharan Africa",45741000,133,4.08099985122681,2017
+"449","Burkina Faso","Sub-Saharan Africa",20903278,134,4.03200006484985,2017
+"450","Niger","Sub-Saharan Africa",24206636,135,4.02799987792969,2017
+"451","Malawi","Sub-Saharan Africa",19129955,136,3.97000002861023,2017
+"452","Chad","Sub-Saharan Africa",16425859,137,3.93600010871887,2017
+"453","Zimbabwe","Sub-Saharan Africa",14862927,138,3.875,2017
+"454","Lesotho","Sub-Saharan Africa",2142252,139,3.80800008773804,2017
+"455","Angola","Sub-Saharan Africa",32866268,140,3.79500007629395,2017
+"456","Afghanistan","Southern Asia",38928341,141,3.79399991035461,2017
+"457","Botswana","Sub-Saharan Africa",2351625,142,3.76600003242493,2017
+"458","Benin","Sub-Saharan Africa",12123198,143,3.65700006484985,2017
+"459","Madagascar","Sub-Saharan Africa",27691019,144,3.64400005340576,2017
+"460","Haiti","Latin America and Caribbean",11402533,145,3.6029999256134,2017
+"461","Yemen","Middle East and Northern Africa",NA,146,3.59299993515015,2017
+"462","S. Sudan",NA,NA,147,3.59100008010864,2017
+"463","Liberia","Sub-Saharan Africa",5057677,148,3.53299999237061,2017
+"464","Guinea","Sub-Saharan Africa",13132792,149,3.50699996948242,2017
+"465","Togo","Sub-Saharan Africa",8278737,150,3.49499988555908,2017
+"466","Rwanda","Sub-Saharan Africa",12952209,151,3.47099995613098,2017
+"467","Syria","Middle East and Northern Africa",NA,152,3.46199989318848,2017
+"468","Tanzania","Sub-Saharan Africa",59734213,153,3.34899997711182,2017
+"469","Burundi","Sub-Saharan Africa",11890781,154,2.90499997138977,2017
+"470","Central African Republic","Sub-Saharan Africa",4829764,155,2.69300007820129,2017
+"471","Finland","Western Europe",5530719,1,7.632,2018
+"472","Norway","Western Europe",5379475,2,7.594,2018
+"473","Denmark","Western Europe",5831404,3,7.555,2018
+"474","Iceland","Western Europe",366425,4,7.495,2018
+"475","Switzerland","Western Europe",8636896,5,7.487,2018
+"476","Netherlands","Western Europe",17441139,6,7.441,2018
+"477","Canada","North America",38005238,7,7.328,2018
+"478","New Zealand","Australia and New Zealand",5084300,8,7.324,2018
+"479","Sweden","Western Europe",10353442,9,7.314,2018
+"480","Australia","Australia and New Zealand",25687041,10,7.272,2018
+"481","United Kingdom","Western Europe",67215293,11,7.19,2018
+"482","Austria","Western Europe",8917205,12,7.139,2018
+"483","Costa Rica","Latin America and Caribbean",5094114,13,7.072,2018
+"484","Ireland","Western Europe",4994724,14,6.977,2018
+"485","Germany","Western Europe",83240525,15,6.965,2018
+"486","Belgium","Western Europe",11555997,16,6.927,2018
+"487","Luxembourg","Western Europe",632275,17,6.91,2018
+"488","United States of America","North America",NA,18,6.886,2018
+"489","Israel","Middle East and Northern Africa",9216900,19,6.814,2018
+"490","United Arab Emirates","Middle East and Northern Africa",9890400,20,6.774,2018
+"491","Czech Republic","Central and Eastern Europe",10698896,21,6.711,2018
+"492","Malta","Western Europe",525285,22,6.627,2018
+"493","France","Western Europe",67391582,23,6.489,2018
+"494","Mexico","Latin America and Caribbean",128932753,24,6.488,2018
+"495","Chile","Latin America and Caribbean",19116209,25,6.476,2018
+"496","Taiwan","Eastern Asia",NA,26,6.441,2018
+"497","Panama","Latin America and Caribbean",4314768,27,6.43,2018
+"498","Brazil","Latin America and Caribbean",212559409,28,6.419,2018
+"499","Argentina","Latin America and Caribbean",45376763,29,6.388,2018
+"500","Guatemala","Latin America and Caribbean",16858333,30,6.382,2018
+"501","Uruguay","Latin America and Caribbean",3473727,31,6.379,2018
+"502","Qatar","Middle East and Northern Africa",2881060,32,6.374,2018
+"503","Saudi Arabia","Middle East and Northern Africa",34813867,33,6.371,2018
+"504","Singapore","Southeastern Asia",5685807,34,6.343,2018
+"505","Malaysia","Southeastern Asia",32365998,35,6.322,2018
+"506","Spain","Western Europe",47351567,36,6.31,2018
+"507","Colombia","Latin America and Caribbean",50882884,37,6.26,2018
+"508","Trinidad & Tobago",NA,NA,38,6.192,2018
+"509","Slovakia","Central and Eastern Europe",NA,39,6.173,2018
+"510","El Salvador","Latin America and Caribbean",6486201,40,6.167,2018
+"511","Nicaragua","Latin America and Caribbean",6624554,41,6.141,2018
+"512","Poland","Central and Eastern Europe",37950802,42,6.123,2018
+"513","Bahrain","Middle East and Northern Africa",1701583,43,6.105,2018
+"514","Uzbekistan","Central and Eastern Europe",34232050,44,6.096,2018
+"515","Kuwait","Middle East and Northern Africa",4270563,45,6.083,2018
+"516","Thailand","Southeastern Asia",69799978,46,6.072,2018
+"517","Italy","Western Europe",59554023,47,6,2018
+"518","Ecuador","Latin America and Caribbean",17643060,48,5.973,2018
+"519","Belize",NA,397621,49,5.956,2018
+"520","Lithuania","Central and Eastern Europe",2794700,50,5.952,2018
+"521","Slovenia","Central and Eastern Europe",2100126,51,5.948,2018
+"522","Romania","Central and Eastern Europe",19286123,52,5.945,2018
+"523","Latvia","Central and Eastern Europe",1901548,53,5.933,2018
+"524","Japan","Eastern Asia",125836021,54,5.915,2018
+"525","Mauritius","Sub-Saharan Africa",1265740,55,5.891,2018
+"526","Jamaica","Latin America and Caribbean",2961161,56,5.89,2018
+"527","South Korea","Eastern Asia",NA,57,5.875,2018
+"528","Northern Cyprus",NA,NA,58,5.835,2018
+"529","Russia","Central and Eastern Europe",NA,59,5.81,2018
+"530","Kazakhstan","Central and Eastern Europe",18754440,60,5.79,2018
+"531","Cyprus","Western Europe",1207361,61,5.762,2018
+"532","Bolivia","Latin America and Caribbean",11673029,62,5.752,2018
+"533","Estonia","Central and Eastern Europe",1331057,63,5.739,2018
+"534","Paraguay","Latin America and Caribbean",7132530,64,5.681,2018
+"535","Peru","Latin America and Caribbean",32971846,65,5.663,2018
+"536","Kosovo","Central and Eastern Europe",1775378,66,5.662,2018
+"537","Moldova","Central and Eastern Europe",2617820,67,5.64,2018
+"538","Turkmenistan","Central and Eastern Europe",6031187,68,5.636,2018
+"539","Hungary","Central and Eastern Europe",9749763,69,5.62,2018
+"540","Libya","Middle East and Northern Africa",6871287,70,5.566,2018
+"541","Philippines","Southeastern Asia",109581085,71,5.524,2018
+"542","Honduras","Latin America and Caribbean",9904608,72,5.504,2018
+"543","Belarus","Central and Eastern Europe",9398861,73,5.483,2018
+"544","Turkey","Middle East and Northern Africa",84339067,74,5.483,2018
+"545","Pakistan","Southern Asia",220892331,75,5.472,2018
+"546","Hong Kong","Eastern Asia",NA,76,5.43,2018
+"547","Portugal","Western Europe",10305564,77,5.41,2018
+"548","Serbia","Central and Eastern Europe",6908224,78,5.398,2018
+"549","Greece","Western Europe",10715549,79,5.358,2018
+"550","Lebanon","Middle East and Northern Africa",6825442,80,5.358,2018
+"551","Montenegro","Central and Eastern Europe",621718,81,5.347,2018
+"552","Croatia","Central and Eastern Europe",4047200,82,5.321,2018
+"553","Dominican Republic","Latin America and Caribbean",10847904,83,5.302,2018
+"554","Algeria","Middle East and Northern Africa",43851043,84,5.295,2018
+"555","Morocco","Middle East and Northern Africa",36910558,85,5.254,2018
+"556","China","Eastern Asia",1402112000,86,5.246,2018
+"557","Azerbaijan","Central and Eastern Europe",10110116,87,5.201,2018
+"558","Tajikistan","Central and Eastern Europe",9537642,88,5.199,2018
+"559","Macedonia","Central and Eastern Europe",NA,89,5.185,2018
+"560","Jordan","Middle East and Northern Africa",10203140,90,5.161,2018
+"561","Nigeria","Sub-Saharan Africa",206139587,91,5.155,2018
+"562","Kyrgyzstan","Central and Eastern Europe",NA,92,5.131,2018
+"563","Bosnia and Herzegovina","Central and Eastern Europe",3280815,93,5.129,2018
+"564","Mongolia","Eastern Asia",3278292,94,5.125,2018
+"565","Vietnam","Southeastern Asia",97338583,95,5.103,2018
+"566","Indonesia","Southeastern Asia",273523621,96,5.093,2018
+"567","Bhutan","Southern Asia",771612,97,5.082,2018
+"568","Somalia",NA,15893219,98,4.982,2018
+"569","Cameroon","Sub-Saharan Africa",26545864,99,4.975,2018
+"570","Bulgaria","Central and Eastern Europe",6927288,100,4.933,2018
+"571","Nepal","Southern Asia",29136808,101,4.88,2018
+"572","Venezuela","Latin America and Caribbean",NA,102,4.806,2018
+"573","Gabon","Sub-Saharan Africa",2225728,103,4.758,2018
+"574","Palestinian Territories","Middle East and Northern Africa",NA,104,4.743,2018
+"575","South Africa","Sub-Saharan Africa",59308690,105,4.724,2018
+"576","Iran","Middle East and Northern Africa",NA,106,4.707,2018
+"577","Côte d'Ivoire","Sub-Saharan Africa",NA,107,4.671,2018
+"578","Ghana","Sub-Saharan Africa",31072945,108,4.657,2018
+"579","Senegal","Sub-Saharan Africa",16743930,109,4.631,2018
+"580","Laos","Southeastern Asia",NA,110,4.623,2018
+"581","Tunisia","Middle East and Northern Africa",11818618,111,4.592,2018
+"582","Albania","Central and Eastern Europe",2837743,112,4.586,2018
+"583","Sierra Leone","Sub-Saharan Africa",7976985,113,4.571,2018
+"584","Republic of the Congo","Sub-Saharan Africa",NA,114,4.559,2018
+"585","Bangladesh","Southern Asia",164689383,115,4.5,2018
+"586","Sri Lanka","Southern Asia",21919000,116,4.471,2018
+"587","Iraq","Middle East and Northern Africa",40222503,117,4.456,2018
+"588","Mali","Sub-Saharan Africa",20250834,118,4.447,2018
+"589","Namibia",NA,2540916,119,4.441,2018
+"590","Cambodia","Southeastern Asia",16718971,120,4.433,2018
+"591","Burkina Faso","Sub-Saharan Africa",20903278,121,4.424,2018
+"592","Egypt","Middle East and Northern Africa",NA,122,4.419,2018
+"593","Mozambique","Sub-Saharan Africa",31255435,123,4.417,2018
+"594","Kenya","Sub-Saharan Africa",53771300,124,4.41,2018
+"595","Zambia","Sub-Saharan Africa",18383956,125,4.377,2018
+"596","Mauritania","Sub-Saharan Africa",4649660,126,4.356,2018
+"597","Ethiopia","Sub-Saharan Africa",114963583,127,4.35,2018
+"598","Georgia","Central and Eastern Europe",3714000,128,4.34,2018
+"599","Armenia","Central and Eastern Europe",2963234,129,4.321,2018
+"600","Myanmar","Southeastern Asia",54409794,130,4.308,2018
+"601","Chad","Sub-Saharan Africa",16425859,131,4.301,2018
+"602","Dem. Rep. Congo","Sub-Saharan Africa",NA,132,4.245,2018
+"603","India","Southern Asia",1380004385,133,4.19,2018
+"604","Niger","Sub-Saharan Africa",24206636,134,4.166,2018
+"605","Uganda","Sub-Saharan Africa",45741000,135,4.161,2018
+"606","Benin","Sub-Saharan Africa",12123198,136,4.141,2018
+"607","Sudan","Sub-Saharan Africa",43849269,137,4.139,2018
+"608","Ukraine","Central and Eastern Europe",44134693,138,4.103,2018
+"609","Togo","Sub-Saharan Africa",8278737,139,3.999,2018
+"610","Guinea","Sub-Saharan Africa",13132792,140,3.964,2018
+"611","Lesotho","Sub-Saharan Africa",2142252,141,3.808,2018
+"612","Angola","Sub-Saharan Africa",32866268,142,3.795,2018
+"613","Madagascar","Sub-Saharan Africa",27691019,143,3.774,2018
+"614","Zimbabwe","Sub-Saharan Africa",14862927,144,3.692,2018
+"615","Afghanistan","Southern Asia",38928341,145,3.632,2018
+"616","Botswana","Sub-Saharan Africa",2351625,146,3.59,2018
+"617","Malawi","Sub-Saharan Africa",19129955,147,3.587,2018
+"618","Haiti","Latin America and Caribbean",11402533,148,3.582,2018
+"619","Liberia","Sub-Saharan Africa",5057677,149,3.495,2018
+"620","Syria","Middle East and Northern Africa",NA,150,3.462,2018
+"621","Rwanda","Sub-Saharan Africa",12952209,151,3.408,2018
+"622","Yemen","Middle East and Northern Africa",NA,152,3.355,2018
+"623","Tanzania","Sub-Saharan Africa",59734213,153,3.303,2018
+"624","S. Sudan",NA,NA,154,3.254,2018
+"625","Central African Republic","Sub-Saharan Africa",4829764,155,3.083,2018
+"626","Burundi","Sub-Saharan Africa",11890781,156,2.905,2018
+"627","Finland","Western Europe",5530719,1,7.769,2019
+"628","Denmark","Western Europe",5831404,2,7.6,2019
+"629","Norway","Western Europe",5379475,3,7.554,2019
+"630","Iceland","Western Europe",366425,4,7.494,2019
+"631","Netherlands","Western Europe",17441139,5,7.488,2019
+"632","Switzerland","Western Europe",8636896,6,7.48,2019
+"633","Sweden","Western Europe",10353442,7,7.343,2019
+"634","New Zealand","Australia and New Zealand",5084300,8,7.307,2019
+"635","Canada","North America",38005238,9,7.278,2019
+"636","Austria","Western Europe",8917205,10,7.246,2019
+"637","Australia","Australia and New Zealand",25687041,11,7.228,2019
+"638","Costa Rica","Latin America and Caribbean",5094114,12,7.167,2019
+"639","Israel","Middle East and Northern Africa",9216900,13,7.139,2019
+"640","Luxembourg","Western Europe",632275,14,7.09,2019
+"641","United Kingdom","Western Europe",67215293,15,7.054,2019
+"642","Ireland","Western Europe",4994724,16,7.021,2019
+"643","Germany","Western Europe",83240525,17,6.985,2019
+"644","Belgium","Western Europe",11555997,18,6.923,2019
+"645","United States of America","North America",NA,19,6.892,2019
+"646","Czech Republic","Central and Eastern Europe",10698896,20,6.852,2019
+"647","United Arab Emirates","Middle East and Northern Africa",9890400,21,6.825,2019
+"648","Malta","Western Europe",525285,22,6.726,2019
+"649","Mexico","Latin America and Caribbean",128932753,23,6.595,2019
+"650","France","Western Europe",67391582,24,6.592,2019
+"651","Taiwan","Eastern Asia",NA,25,6.446,2019
+"652","Chile","Latin America and Caribbean",19116209,26,6.444,2019
+"653","Guatemala","Latin America and Caribbean",16858333,27,6.436,2019
+"654","Saudi Arabia","Middle East and Northern Africa",34813867,28,6.375,2019
+"655","Qatar","Middle East and Northern Africa",2881060,29,6.374,2019
+"656","Spain","Western Europe",47351567,30,6.354,2019
+"657","Panama","Latin America and Caribbean",4314768,31,6.321,2019
+"658","Brazil","Latin America and Caribbean",212559409,32,6.3,2019
+"659","Uruguay","Latin America and Caribbean",3473727,33,6.293,2019
+"660","Singapore","Southeastern Asia",5685807,34,6.262,2019
+"661","El Salvador","Latin America and Caribbean",6486201,35,6.253,2019
+"662","Italy","Western Europe",59554023,36,6.223,2019
+"663","Bahrain","Middle East and Northern Africa",1701583,37,6.199,2019
+"664","Slovakia","Central and Eastern Europe",NA,38,6.198,2019
+"665","Trinidad & Tobago",NA,NA,39,6.192,2019
+"666","Poland","Central and Eastern Europe",37950802,40,6.182,2019
+"667","Uzbekistan","Central and Eastern Europe",34232050,41,6.174,2019
+"668","Lithuania","Central and Eastern Europe",2794700,42,6.149,2019
+"669","Colombia","Latin America and Caribbean",50882884,43,6.125,2019
+"670","Slovenia","Central and Eastern Europe",2100126,44,6.118,2019
+"671","Nicaragua","Latin America and Caribbean",6624554,45,6.105,2019
+"672","Kosovo","Central and Eastern Europe",1775378,46,6.1,2019
+"673","Argentina","Latin America and Caribbean",45376763,47,6.086,2019
+"674","Romania","Central and Eastern Europe",19286123,48,6.07,2019
+"675","Cyprus","Western Europe",1207361,49,6.046,2019
+"676","Ecuador","Latin America and Caribbean",17643060,50,6.028,2019
+"677","Kuwait","Middle East and Northern Africa",4270563,51,6.021,2019
+"678","Thailand","Southeastern Asia",69799978,52,6.008,2019
+"679","Latvia","Central and Eastern Europe",1901548,53,5.94,2019
+"680","South Korea","Eastern Asia",NA,54,5.895,2019
+"681","Estonia","Central and Eastern Europe",1331057,55,5.893,2019
+"682","Jamaica","Latin America and Caribbean",2961161,56,5.89,2019
+"683","Mauritius","Sub-Saharan Africa",1265740,57,5.888,2019
+"684","Japan","Eastern Asia",125836021,58,5.886,2019
+"685","Honduras","Latin America and Caribbean",9904608,59,5.86,2019
+"686","Kazakhstan","Central and Eastern Europe",18754440,60,5.809,2019
+"687","Bolivia","Latin America and Caribbean",11673029,61,5.779,2019
+"688","Hungary","Central and Eastern Europe",9749763,62,5.758,2019
+"689","Paraguay","Latin America and Caribbean",7132530,63,5.743,2019
+"690","Northern Cyprus",NA,NA,64,5.718,2019
+"691","Peru","Latin America and Caribbean",32971846,65,5.697,2019
+"692","Portugal","Western Europe",10305564,66,5.693,2019
+"693","Pakistan","Southern Asia",220892331,67,5.653,2019
+"694","Russia","Central and Eastern Europe",NA,68,5.648,2019
+"695","Philippines","Southeastern Asia",109581085,69,5.631,2019
+"696","Serbia","Central and Eastern Europe",6908224,70,5.603,2019
+"697","Moldova","Central and Eastern Europe",2617820,71,5.529,2019
+"698","Libya","Middle East and Northern Africa",6871287,72,5.525,2019
+"699","Montenegro","Central and Eastern Europe",621718,73,5.523,2019
+"700","Tajikistan","Central and Eastern Europe",9537642,74,5.467,2019
+"701","Croatia","Central and Eastern Europe",4047200,75,5.432,2019
+"702","Hong Kong","Eastern Asia",NA,76,5.43,2019
+"703","Dominican Republic","Latin America and Caribbean",10847904,77,5.425,2019
+"704","Bosnia and Herzegovina","Central and Eastern Europe",3280815,78,5.386,2019
+"705","Turkey","Middle East and Northern Africa",84339067,79,5.373,2019
+"706","Malaysia","Southeastern Asia",32365998,80,5.339,2019
+"707","Belarus","Central and Eastern Europe",9398861,81,5.323,2019
+"708","Greece","Western Europe",10715549,82,5.287,2019
+"709","Mongolia","Eastern Asia",3278292,83,5.285,2019
+"710","North Macedonia",NA,2083380,84,5.274,2019
+"711","Nigeria","Sub-Saharan Africa",206139587,85,5.265,2019
+"712","Kyrgyzstan","Central and Eastern Europe",NA,86,5.261,2019
+"713","Turkmenistan","Central and Eastern Europe",6031187,87,5.247,2019
+"714","Algeria","Middle East and Northern Africa",43851043,88,5.211,2019
+"715","Morocco","Middle East and Northern Africa",36910558,89,5.208,2019
+"716","Azerbaijan","Central and Eastern Europe",10110116,90,5.208,2019
+"717","Lebanon","Middle East and Northern Africa",6825442,91,5.197,2019
+"718","Indonesia","Southeastern Asia",273523621,92,5.192,2019
+"719","China","Eastern Asia",1402112000,93,5.191,2019
+"720","Vietnam","Southeastern Asia",97338583,94,5.175,2019
+"721","Bhutan","Southern Asia",771612,95,5.082,2019
+"722","Cameroon","Sub-Saharan Africa",26545864,96,5.044,2019
+"723","Bulgaria","Central and Eastern Europe",6927288,97,5.011,2019
+"724","Ghana","Sub-Saharan Africa",31072945,98,4.996,2019
+"725","Côte d'Ivoire","Sub-Saharan Africa",NA,99,4.944,2019
+"726","Nepal","Southern Asia",29136808,100,4.913,2019
+"727","Jordan","Middle East and Northern Africa",10203140,101,4.906,2019
+"728","Benin","Sub-Saharan Africa",12123198,102,4.883,2019
+"729","Republic of the Congo","Sub-Saharan Africa",NA,103,4.812,2019
+"730","Gabon","Sub-Saharan Africa",2225728,104,4.799,2019
+"731","Laos","Southeastern Asia",NA,105,4.796,2019
+"732","South Africa","Sub-Saharan Africa",59308690,106,4.722,2019
+"733","Albania","Central and Eastern Europe",2837743,107,4.719,2019
+"734","Venezuela","Latin America and Caribbean",NA,108,4.707,2019
+"735","Cambodia","Southeastern Asia",16718971,109,4.7,2019
+"736","Palestinian Territories","Middle East and Northern Africa",NA,110,4.696,2019
+"737","Senegal","Sub-Saharan Africa",16743930,111,4.681,2019
+"738","Somalia",NA,15893219,112,4.668,2019
+"739","Namibia",NA,2540916,113,4.639,2019
+"740","Niger","Sub-Saharan Africa",24206636,114,4.628,2019
+"741","Burkina Faso","Sub-Saharan Africa",20903278,115,4.587,2019
+"742","Armenia","Central and Eastern Europe",2963234,116,4.559,2019
+"743","Iran","Middle East and Northern Africa",NA,117,4.548,2019
+"744","Guinea","Sub-Saharan Africa",13132792,118,4.534,2019
+"745","Georgia","Central and Eastern Europe",3714000,119,4.519,2019
+"746","Gambia",NA,NA,120,4.516,2019
+"747","Kenya","Sub-Saharan Africa",53771300,121,4.509,2019
+"748","Mauritania","Sub-Saharan Africa",4649660,122,4.49,2019
+"749","Mozambique","Sub-Saharan Africa",31255435,123,4.466,2019
+"750","Tunisia","Middle East and Northern Africa",11818618,124,4.461,2019
+"751","Bangladesh","Southern Asia",164689383,125,4.456,2019
+"752","Iraq","Middle East and Northern Africa",40222503,126,4.437,2019
+"753","Dem. Rep. Congo","Sub-Saharan Africa",NA,127,4.418,2019
+"754","Mali","Sub-Saharan Africa",20250834,128,4.39,2019
+"755","Sierra Leone","Sub-Saharan Africa",7976985,129,4.374,2019
+"756","Sri Lanka","Southern Asia",21919000,130,4.366,2019
+"757","Myanmar","Southeastern Asia",54409794,131,4.36,2019
+"758","Chad","Sub-Saharan Africa",16425859,132,4.35,2019
+"759","Ukraine","Central and Eastern Europe",44134693,133,4.332,2019
+"760","Ethiopia","Sub-Saharan Africa",114963583,134,4.286,2019
+"761","Swaziland","Sub-Saharan Africa",NA,135,4.212,2019
+"762","Uganda","Sub-Saharan Africa",45741000,136,4.189,2019
+"763","Egypt","Middle East and Northern Africa",NA,137,4.166,2019
+"764","Zambia","Sub-Saharan Africa",18383956,138,4.107,2019
+"765","Togo","Sub-Saharan Africa",8278737,139,4.085,2019
+"766","India","Southern Asia",1380004385,140,4.015,2019
+"767","Liberia","Sub-Saharan Africa",5057677,141,3.975,2019
+"768","Comoros","Sub-Saharan Africa",869595,142,3.973,2019
+"769","Madagascar","Sub-Saharan Africa",27691019,143,3.933,2019
+"770","Lesotho","Sub-Saharan Africa",2142252,144,3.802,2019
+"771","Burundi","Sub-Saharan Africa",11890781,145,3.775,2019
+"772","Zimbabwe","Sub-Saharan Africa",14862927,146,3.663,2019
+"773","Haiti","Latin America and Caribbean",11402533,147,3.597,2019
+"774","Botswana","Sub-Saharan Africa",2351625,148,3.488,2019
+"775","Syria","Middle East and Northern Africa",NA,149,3.462,2019
+"776","Malawi","Sub-Saharan Africa",19129955,150,3.41,2019
+"777","Yemen","Middle East and Northern Africa",NA,151,3.38,2019
+"778","Rwanda","Sub-Saharan Africa",12952209,152,3.334,2019
+"779","Tanzania","Sub-Saharan Africa",59734213,153,3.231,2019
+"780","Afghanistan","Southern Asia",38928341,154,3.203,2019
+"781","Central African Republic","Sub-Saharan Africa",4829764,155,3.083,2019
+"782","S. Sudan",NA,NA,156,2.853,2019
